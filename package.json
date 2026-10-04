@@ -100,7 +100,7 @@
     "events": "^3.3.0",
     "exceljs": "^4.4.0",
     "glob": "^11.0.0",
-    "handlebars": "^4.7.8",
+    "handlebars": "^4.7.9",
     "jquery": "^3.7.1",
     "jquery-ui": "^1.14.1",
     "js-beautify": "^1.15.1",
